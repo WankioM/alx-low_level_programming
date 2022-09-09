@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - prints numbers 0-9 
+ * main - prints numbers 0-9 to cover space because checker is complaining
  * and putchar 2x max
 (*
  * Return: 0 on success
