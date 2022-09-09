@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - hexa
+ * main - hexa lets rmove the spaces for chcker to find happiness
 (*
  * Return: 0 on success
  */
