@@ -1,6 +1,6 @@
 /*
- * File: 6-size.c
- * Writer: Tracy Wankio Marwa
+ * File: 6-size.c , sizes of fles
+ * Writer: Tracy Wankio Marwa, 9/12/22
  */
 
 #include <stdio.h>
