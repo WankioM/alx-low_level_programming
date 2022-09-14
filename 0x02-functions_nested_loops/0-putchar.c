@@ -4,7 +4,7 @@
  *
  */
 
-#include "main.h"
+#include "main.c"
 
 /**
  * main - Prints "Main" followed by a new line.
