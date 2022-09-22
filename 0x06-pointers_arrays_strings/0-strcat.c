@@ -3,7 +3,8 @@
  * Auth: Tracy Wankio Marwa
  */
 
-#include "main.h"
+#include "main.c"
+#include <stdio.h>
 
 /**
  * strcat - Concatenates the string pointed to by @src, including the terminating
