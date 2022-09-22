@@ -1,3 +1,8 @@
+/*
+ * File: 1-strncat.c
+ * Auth: Tracy Wankio Marwa
+ */
+
 #include "main.h"
 
 /**
