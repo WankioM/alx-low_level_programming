@@ -3,7 +3,7 @@
  * Auth: Tracy Wankio Marwa
  */
 
-#include "main.c"
+
 #include <stdio.h>
 
 /**
