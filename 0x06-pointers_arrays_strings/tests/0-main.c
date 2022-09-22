@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * main - check the code for Holberton School students.
+ * main - simply copied from ALX student instructions on the site.
  *
  * Return: Always 0.
  */
