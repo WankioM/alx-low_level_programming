@@ -1,0 +1,2 @@
+Bit manipulation
+AND, OR, NOT, LEFT OPERAND AND RIGHT OPERAND
