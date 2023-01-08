@@ -1,6 +1,6 @@
 /*
  * File: 100-sorted_hash_table.c
- * Auth: Brennan D Baraban
+ * Auth: Tracy Wankio Marwa
  */
 
 #include "hash_tables.h"
