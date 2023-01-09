@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 10-square.py
-# Lee Mboya
+# Tracy Wankio
 """Defines a Rectangle subclass Square."""
 Rectangle = __import__('9-rectangle').Rectangle
 
