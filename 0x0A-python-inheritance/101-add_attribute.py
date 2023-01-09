@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 101-add_attribute.py
-# Brennan D Baraban <375@holbertonschool.com>
+# Tracy Wankio
 """Defines a function that adds attributes to objects."""
 
 
