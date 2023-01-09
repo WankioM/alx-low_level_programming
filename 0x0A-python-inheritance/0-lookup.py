@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 0-lookup.py
-# Lee Mboya
+# Tracy Wankio
 """Defines an object attribute lookup function."""
 
 
