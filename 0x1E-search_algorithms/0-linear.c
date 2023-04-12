@@ -1,16 +1,16 @@
 /*
  * File: 0-linear.c
- * Auth: Brennan D Baraban
+ * Auth: Tracy Wankio
  */
 
 #include "search_algos.h"
 
 /**
-  * linear_search - Searches for a value in an array
+  * linear_search - Finds a spec value in list
   *                 of integers using linear search.
-  * @array: A pointer to the first element of the array to search.
-  * @size: The number of elements in the array.
-  * @value: The value to search for.
+  * @array: A pointer .
+  * @size: The number of elements in the lit.
+  * @value: What to find.
   *
   * Return: If the value is not present or the array is NULL, -1.
   *         Otherwise, the first index where the value is located.
